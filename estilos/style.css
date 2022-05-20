@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.container-fluid img{
+    width: 14rem;
+
+}
+
+
+
+.sesion button{
+    color:  rgba(0,154,203,255);
+    border-color:  #0307e6;
+    
+}
+
+
+#btnRegistro{
+    background-color: rgba(0,154,203,255);
+    color: aliceblue;
+}
+#btnRegistro:hover{
+    background-color: #009ccbc2;
+}
+
+#grillaTop{
+    padding-top: 1rem;
+}
+.grillaTop h3{
+    padding-bottom: 1rem;
+}
+
+h3{
+   /*  background-color: #009acb; */
+    border-radius: 15px;
+    padding: .5rem;
+    color: #4e4e4e;
+}
+.accordion-item .accordion-button:hover{
+    background-color: #009ccbc2;
+    
+}
